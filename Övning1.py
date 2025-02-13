@@ -36,4 +36,10 @@ print(number)
 number +=3
 print(number)
 
+number5 = 5
+
+while number5 < 10:
+    print(number5)
+    number5 += 1
+
 #Lägger till en kommentar
