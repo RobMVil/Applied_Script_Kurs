@@ -35,3 +35,5 @@ number = 5
 print(number)
 number +=3
 print(number)
+
+#Lägger till en kommentars
